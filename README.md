@@ -22,7 +22,8 @@ This project focuses on a clean user interface and basic arithmetic functionalit
 
 📱 Responsive layout
 
-**🛠️ Technologies Used **
+**🛠️ Technologies Used**
+
 HTML5 – Structure and layout
 
 CSS3 – Styling and responsive design
@@ -39,7 +40,7 @@ Arithmetic expressions are evaluated when the equals (=) button is pressed
 
 Results are displayed instantly on the calculator screen
 
-#🖥️ Getting Started
+# 🖥️ Getting Started
 
 **1️⃣ Clone the Repository**
 
@@ -78,6 +79,7 @@ Scientific calculator features
 Calculation history
 
 **👨‍💻 Author**
+
 Shubham Prakash
 Frontend Developer | JavaScript Learner
 
